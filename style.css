@@ -1,0 +1,16 @@
+.mic {
+	font-color: black;
+}
+img {
+	width: 60rem;
+	height: 50rem;
+	transition: all 1s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+.buffer{
+	height: 10px;
+}
